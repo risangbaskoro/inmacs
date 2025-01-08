@@ -49,6 +49,7 @@
           ];
           casks = [
             "hyperkey"
+            "shottr"
             "zotero"
           ];
           onActivation.cleanup = "zap";

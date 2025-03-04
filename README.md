@@ -1,6 +1,6 @@
 # inmacs
 
-inmacs is a [Nix](https://nixos.org)configuration for quickly configuring my personal Intel Mac setup.
+inmacs is a [Nix](https://nixos.org) configuration for quickly configuring my personal Intel Mac setup.
 
 ## Usage
 
@@ -18,8 +18,7 @@ After running the above command, you can check the Nix installation by using `ni
 I recommend you to clone the repository in your home directory (`/Users/<your-username>` or `~`), so `cd` there if you are not already and then clone this repository.
 
 ```shell
-cd ~
-git clone https://github.com/risangbaskoro/inmacs.git
+git clone https://github.com/risangbaskoro/inmacs.git ~/inmacs
 ```
 
 Now you should have `inmacs` directory in your home directory.
